@@ -1,17 +1,20 @@
 # rhomboidQuail
 
-###Redis
-```brew install redis
-brew services start redis
-rq worker
-```
+### Redis
+``` 
+brew install redis 
+brew services start redis 
+rq worker 
+``` 
 
-###Install
-```Make virtualenv
-pip install requests
-pip install rq
-```
+### Install 
+``` 
+Make virtualenv 
+pip install requests 
+pip install rq 
+``` 
 
-###Run
-```python spike_rq.py
-```
+### Run 
+``` 
+python spike_rq.py 
+``` 
